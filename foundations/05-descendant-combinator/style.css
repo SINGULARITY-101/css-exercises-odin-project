@@ -1,0 +1,14 @@
+/* Using type selectors */
+/* div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+} */
+
+
+/* Using Classes  */
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+}
